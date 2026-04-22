@@ -50,13 +50,7 @@ El bloque con mayor volumen normativo: 37 cursos respaldados por legislación eu
 
 | Materia | Norma principal | Estado |
 |:--------|:----------------|:-------|
-| Manipulación de alimentos | Rgto. CE 852/2004 · RD 109/2010 | 🔜 Pendiente |
-| APPCC (Análisis de Peligros y Puntos de Control Críticos) | Rgto. CE 852/2004 · Codex Alimentarius | 🔜 Pendiente |
-| Alérgenos y etiquetado alimentario | Rgto. UE 1169/2011 · RD 126/2015 · RD 1021/2022 | 🔜 Pendiente |
-| Buenas Prácticas de Higiene (BPH) | Rgto. CE 852/2004 · Ley 17/2011 | 🔜 Pendiente |
-| Cultura de seguridad alimentaria | Rgto. UE 2021/382 | 🔜 Pendiente |
-| Seguridad, higiene y protección ambiental en hostelería | Rgto. CE 852/2004 · Ley 31/1995 · Ley 7/2022 | 🔜 Pendiente |
-| Calidad agroalimentaria | RD 1334/1999 · Ley 17/2011 | 🔜 Pendiente |
+| [**Manipulación, APPCC, alérgenos, BPH y cultura de seguridad**](alimentacion/seguridad-alimentaria-formacion) | Rgto. CE 852/2004 · Ley 17/2011 | ✅ Disponible |
 
 ---
 
