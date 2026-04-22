@@ -40,8 +40,7 @@ Formación obligatoria para todo el personal que trate datos personales. Afecta 
 
 | Materia | Norma principal | Estado |
 |:--------|:----------------|:-------|
-| RGPD y LOPDGDD — formación de trabajadores | Rgto. UE 2016/679 · LO 3/2018 | 🔜 Pendiente |
-| Delegado de Protección de Datos (DPO) | Rgto. UE 2016/679 arts. 37-39 · LO 3/2018 | 🔜 Pendiente |
+| [**RGPD y LOPDGDD — formación de trabajadores**](proteccion-datos/rgpd-lopdgdd-formacion) | Rgto. UE 2016/679 · LO 3/2018 | ✅ Disponible |
 
 ---
 
