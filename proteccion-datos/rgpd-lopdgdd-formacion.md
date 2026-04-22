@@ -32,7 +32,7 @@ Qué exige el RGPD sobre formación del personal, por qué la AEPD la considera 
       <div class="bib-norma__code">Rgto. UE 2016/679 (RGPD)</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">Reglamento General de Protección de Datos</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80807" target="_blank" rel="noopener">Reglamento General de Protección de Datos</a></h3>
   <p class="bib-norma__desc">Norma europea de aplicación directa que regula el tratamiento de datos personales en todos los Estados miembros. Prevalece sobre la normativa nacional en caso de conflicto.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--active">● En vigor (desde 25/05/2018)</span>
@@ -51,7 +51,7 @@ Qué exige el RGPD sobre formación del personal, por qué la AEPD la considera 
       <div class="bib-norma__code">LO 3/2018 (LOPDGDD)</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673" target="_blank" rel="noopener">Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales</a></h3>
   <p class="bib-norma__desc">Adapta el RGPD al ordenamiento español. Define los supuestos de designación obligatoria de DPO (art. 34), regula el derecho a la desconexión digital (art. 88) y establece el régimen sancionador nacional.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--active">● En vigor</span>
@@ -68,7 +68,7 @@ Qué exige el RGPD sobre formación del personal, por qué la AEPD la considera 
       <div class="bib-norma__code">RD 1720/2007 (parcial)</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">Reglamento de desarrollo de la antigua LOPD</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2008-979" target="_blank" rel="noopener">Reglamento de desarrollo de la antigua LOPD</a></h3>
   <p class="bib-norma__desc">Parcialmente vigente en lo que no contradiga el RGPD y la LOPDGDD. Sigue siendo referencia para medidas de seguridad en ficheros no automatizados.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--warn">◐ Parcialmente vigente</span>
