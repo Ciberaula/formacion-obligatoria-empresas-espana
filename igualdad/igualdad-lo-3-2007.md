@@ -32,7 +32,7 @@ Qué obliga la LO 3/2007, a qué empresas afecta el plan de igualdad, qué forma
       <div class="bib-norma__code">LO 3/2007</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115" target="_blank" rel="noopener">Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres</a></h3>
   <p class="bib-norma__desc">Norma marco que establece el principio de igualdad de trato y de oportunidades entre mujeres y hombres en todos los ámbitos. Introduce la obligación de planes de igualdad y protocolos de acoso.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--active">● En vigor</span>
@@ -49,7 +49,7 @@ Qué obliga la LO 3/2007, a qué empresas afecta el plan de igualdad, qué forma
       <div class="bib-norma__code">RD 901/2020 + RD 902/2020</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">RD 901/2020 (planes de igualdad) y RD 902/2020 (igualdad retributiva)</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12214" target="_blank" rel="noopener">RD 901/2020 (planes de igualdad)</a> y <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12215" target="_blank" rel="noopener">RD 902/2020 (igualdad retributiva)</a></h3>
   <p class="bib-norma__desc">El RD 901 regula el contenido mínimo del plan de igualdad, su negociación y registro en el REGCON. El RD 902 establece el registro salarial obligatorio para todas las empresas y la auditoría retributiva para las de 50+ trabajadores.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--active">● En vigor</span>
@@ -67,7 +67,7 @@ Qué obliga la LO 3/2007, a qué empresas afecta el plan de igualdad, qué forma
       <div class="bib-norma__code">Ley 4/2023 + RD 1026/2024</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">Ley 4/2023 (derechos LGTBI) y RD 1026/2024 (desarrollo empresarial)</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2023-5365" target="_blank" rel="noopener">Ley 4/2023 (derechos LGTBI)</a> y <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2024-20462" target="_blank" rel="noopener">RD 1026/2024 (desarrollo empresarial)</a></h3>
   <p class="bib-norma__desc">Obliga a empresas de 50+ trabajadores a adoptar medidas planificadas de igualdad LGTBI y un protocolo de prevención del acoso por orientación sexual e identidad de género. El RD 1026/2024 entra en vigor en abril de 2025.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--active">● En vigor</span>
@@ -84,7 +84,7 @@ Qué obliga la LO 3/2007, a qué empresas afecta el plan de igualdad, qué forma
       <div class="bib-norma__code">LO 10/2022</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">LO 10/2022, de garantía integral de la libertad sexual</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-14630" target="_blank" rel="noopener">LO 10/2022, de garantía integral de la libertad sexual</a></h3>
   <p class="bib-norma__desc">Refuerza la obligación de todas las empresas — sin excepción de tamaño — de contar con protocolos frente al acoso sexual y de promover la formación del personal. Art. 12: deber de formación en el ámbito laboral.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--active">● En vigor</span>
