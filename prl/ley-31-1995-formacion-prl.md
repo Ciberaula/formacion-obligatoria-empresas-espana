@@ -32,7 +32,7 @@ Qué dice el artículo 19 de la Ley 31/1995, a quién obliga, cuándo hay que fo
       <div class="bib-norma__code">Ley 31/1995</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292" target="_blank" rel="noopener">Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales</a></h3>
   <p class="bib-norma__desc">Norma marco que establece el derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo. Transpone la Directiva Marco europea 89/391/CEE.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--active">● En vigor</span>
@@ -49,7 +49,7 @@ Qué dice el artículo 19 de la Ley 31/1995, a quién obliga, cuándo hay que fo
       <div class="bib-norma__code">RD 39/1997</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">Real Decreto 39/1997 — Reglamento de los Servicios de Prevención</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853" target="_blank" rel="noopener">Real Decreto 39/1997 — Reglamento de los Servicios de Prevención</a></h3>
   <p class="bib-norma__desc">Regula la organización de la actividad preventiva: modalidades de servicio (propio, ajeno, mancomunado), funciones y capacidades, y formación necesaria para cada nivel.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--active">● En vigor</span>
@@ -66,7 +66,7 @@ Qué dice el artículo 19 de la Ley 31/1995, a quién obliga, cuándo hay que fo
       <div class="bib-norma__code">RDLeg 5/2000 (LISOS)</div>
     </div>
   </div>
-  <h3 class="bib-norma__title">Texto Refundido de la Ley sobre Infracciones y Sanciones en el Orden Social</h3>
+  <h3 class="bib-norma__title"><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2000-15060" target="_blank" rel="noopener">Texto Refundido de la Ley sobre Infracciones y Sanciones en el Orden Social</a></h3>
   <p class="bib-norma__desc">Tipifica las infracciones en materia de PRL (arts. 11-13) y establece las cuantías de las sanciones (art. 40). Cuantías actualizadas por la Ley 10/2021 desde el 1 de octubre de 2021.</p>
   <div class="bib-norma__tags">
     <span class="bib-norma__tag bib-norma__tag--active">● En vigor</span>
