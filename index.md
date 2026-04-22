@@ -30,10 +30,7 @@ Obligaciones derivadas de la normativa de igualdad de género, protocolos de aco
 
 | Materia | Norma principal | Estado |
 |:--------|:----------------|:-------|
-| Igualdad de género y planes de igualdad | LO 3/2007 · RD 901/2020 · RD 902/2020 | 🔜 Pendiente |
-| Protocolo de prevención del acoso | LO 3/2007 · LO 10/2022 | 🔜 Pendiente |
-| Diversidad e igualdad LGTBI | Ley 4/2023 · RD 1026/2024 | 🔜 Pendiente |
-| Violencia sexual (Ley del Solo Sí es Sí) | LO 10/2022 | 🔜 Pendiente |
+| [**Igualdad de género, acoso y diversidad LGTBI**](igualdad/igualdad-lo-3-2007) | LO 3/2007 · RD 901/2020 · Ley 4/2023 | ✅ Disponible |
 
 ---
 
