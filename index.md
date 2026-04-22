@@ -14,9 +14,7 @@ Legislación, reglamentos y obligaciones de formación que toda empresa español
 
 ---
 
-## Materias cubiertas
-
-### I · Seguridad y salud en el trabajo
+## I · Seguridad y salud en el trabajo
 
 La obligación de formación más antigua, más fiscalizada y con mayor volumen de sanciones. Afecta a todas las empresas con trabajadores por cuenta ajena, sin excepción.
 
@@ -26,44 +24,75 @@ La obligación de formación más antigua, más fiscalizada y con mayor volumen 
 
 ---
 
-### II · Igualdad, acoso y derechos digitales
+## II · Igualdad, acoso y diversidad
 
-Obligaciones derivadas de la normativa de igualdad de género, protocolos de acoso, diversidad LGTBI y derecho a la desconexión digital.
+Obligaciones derivadas de la normativa de igualdad de género, protocolos de acoso laboral y sexual, y diversidad LGTBI. Algunas afectan solo a empresas de 50+ empleados; otras, a todas.
 
 | Materia | Norma principal | Estado |
 |:--------|:----------------|:-------|
 | Igualdad de género y planes de igualdad | LO 3/2007 · RD 901/2020 · RD 902/2020 | 🔜 Pendiente |
 | Protocolo de prevención del acoso | LO 3/2007 · LO 10/2022 | 🔜 Pendiente |
 | Diversidad e igualdad LGTBI | Ley 4/2023 · RD 1026/2024 | 🔜 Pendiente |
-| Desconexión digital | LO 3/2018, art. 88 · Ley 10/2021 | 🔜 Pendiente |
+| Violencia sexual (Ley del Solo Sí es Sí) | LO 10/2022 | 🔜 Pendiente |
 
 ---
 
-### III · Compliance, datos y sector regulado
+## III · Protección de datos
 
-Obligaciones de formación impuestas por normativa sectorial o de cumplimiento normativo. Afectan a empresas según su actividad, tamaño o sector.
+Formación obligatoria para todo el personal que trate datos personales. Afecta a prácticamente todas las empresas. Supervisada por la AEPD.
 
 | Materia | Norma principal | Estado |
 |:--------|:----------------|:-------|
-| Protección de datos (RGPD) | Rgto. UE 2016/679 · LO 3/2018 | 🔜 Pendiente |
-| Blanqueo de capitales | Ley 10/2010 · RD 304/2014 | 🔜 Pendiente |
-| Canal de denuncias | Ley 2/2023 | 🔜 Pendiente |
-| Ciberseguridad (NIS2) | Directiva UE 2022/2555 · RD 1017/2024 | 🔜 Pendiente |
-| Compliance penal | Art. 31 bis Código Penal | 🔜 Pendiente |
+| RGPD y LOPDGDD — formación de trabajadores | Rgto. UE 2016/679 · LO 3/2018 | 🔜 Pendiente |
+| Delegado de Protección de Datos (DPO) | Rgto. UE 2016/679 arts. 37-39 · LO 3/2018 | 🔜 Pendiente |
 
 ---
 
-### IV · Sector alimentario
+## IV · Seguridad alimentaria
 
-El bloque con mayor volumen de normativa europea. Obligaciones de formación en higiene, manipulación de alimentos, APPCC y gestión de alérgenos.
+El bloque con mayor volumen normativo: 37 cursos respaldados por legislación europea y española. Obligaciones de formación en manipulación de alimentos, APPCC, alérgenos, higiene y cultura de seguridad alimentaria.
 
 | Materia | Norma principal | Estado |
 |:--------|:----------------|:-------|
 | Manipulación de alimentos | Rgto. CE 852/2004 · RD 109/2010 | 🔜 Pendiente |
-| APPCC (Análisis de Peligros y Puntos de Control Críticos) | Rgto. CE 852/2004 | 🔜 Pendiente |
-| Alérgenos y etiquetado alimentario | Rgto. UE 1169/2011 · RD 126/2015 | 🔜 Pendiente |
+| APPCC (Análisis de Peligros y Puntos de Control Críticos) | Rgto. CE 852/2004 · Codex Alimentarius | 🔜 Pendiente |
+| Alérgenos y etiquetado alimentario | Rgto. UE 1169/2011 · RD 126/2015 · RD 1021/2022 | 🔜 Pendiente |
 | Buenas Prácticas de Higiene (BPH) | Rgto. CE 852/2004 · Ley 17/2011 | 🔜 Pendiente |
 | Cultura de seguridad alimentaria | Rgto. UE 2021/382 | 🔜 Pendiente |
+| Seguridad, higiene y protección ambiental en hostelería | Rgto. CE 852/2004 · Ley 31/1995 · Ley 7/2022 | 🔜 Pendiente |
+| Calidad agroalimentaria | RD 1334/1999 · Ley 17/2011 | 🔜 Pendiente |
+
+---
+
+## V · Blanqueo de capitales
+
+Formación anual obligatoria para los sujetos obligados del art. 2.1 de la Ley 10/2010: entidades financieras, inmobiliarias, notarios, abogados, auditores, joyerías, casinos y otros. Supervisada por el SEPBLAC.
+
+| Materia | Norma principal | Estado |
+|:--------|:----------------|:-------|
+| Prevención del blanqueo de capitales y financiación del terrorismo | Ley 10/2010 · RD 304/2014 · Rgto. UE 2024/1624 | 🔜 Pendiente |
+
+---
+
+## VI · Ciberseguridad
+
+Obligaciones derivadas de la Directiva NIS2 para entidades esenciales e importantes. Incluye concienciación general de la plantilla y formación específica para teletrabajo seguro.
+
+| Materia | Norma principal | Estado |
+|:--------|:----------------|:-------|
+| Ciberseguridad corporativa (NIS2) | Directiva UE 2022/2555 · RD 1017/2024 | 🔜 Pendiente |
+| Teletrabajo seguro | Ley 10/2021 · RD 311/2022 (ENS) | 🔜 Pendiente |
+
+---
+
+## VII · Derechos digitales y canal de denuncias
+
+Obligaciones de formación sobre el derecho a la desconexión digital y sobre el funcionamiento y garantías del canal interno de información.
+
+| Materia | Norma principal | Estado |
+|:--------|:----------------|:-------|
+| Desconexión digital | LO 3/2018, art. 88 · Ley 10/2021 | 🔜 Pendiente |
+| Canal de denuncias (protección del informante) | Ley 2/2023 · Directiva UE 2019/1937 | 🔜 Pendiente |
 
 ---
 
