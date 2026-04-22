@@ -8,14 +8,17 @@ Las empresas españolas están sujetas a múltiples obligaciones de formación q
 
 Pensado para que un **técnico de RRHH**, un **responsable de compliance** o un **agente de inteligencia artificial** pueda localizar rápidamente qué norma obliga, desde cuándo y qué consecuencias tiene no cumplirla.
 
-## Materias cubiertas
+## Bloques temáticos
 
-| Bloque | Materias | Estado |
-|--------|----------|--------|
-| **I · Seguridad y salud** | Prevención de Riesgos Laborales (Ley 31/1995) | ✅ Disponible |
-| **II · Igualdad y derechos** | Igualdad de género · Acoso laboral · LGTBI · Desconexión digital | 🔜 Pendiente |
-| **III · Compliance y datos** | RGPD · Blanqueo de capitales · Canal de denuncias · Ciberseguridad NIS2 | 🔜 Pendiente |
-| **IV · Sector alimentario** | Manipulación de alimentos · APPCC · Alérgenos · Higiene alimentaria | 🔜 Pendiente |
+| Bloque | Materias | Normas principales | Estado |
+|--------|----------|-------------------|--------|
+| **I · Seguridad y salud** | PRL (art. 19 LPRL) | Ley 31/1995 · RD 39/1997 | ✅ Disponible |
+| **II · Igualdad, acoso y diversidad** | Igualdad de género · Acoso · LGTBI · Violencia sexual | LO 3/2007 · Ley 4/2023 · LO 10/2022 | 🔜 Pendiente |
+| **III · Protección de datos** | RGPD · DPO | Rgto. UE 2016/679 · LO 3/2018 | 🔜 Pendiente |
+| **IV · Seguridad alimentaria** | Manipulación · BPH · APPCC · Alérgenos · Etiquetado · Hostelería | CE 852/2004 · Ley 17/2011 | 🔜 Pendiente |
+| **V · Blanqueo de capitales** | PBC/FT · Sujetos obligados | Ley 10/2010 · RD 304/2014 | 🔜 Pendiente |
+| **VI · Ciberseguridad** | NIS2 · Teletrabajo seguro | Dir. UE 2022/2555 · RD 1017/2024 | 🔜 Pendiente |
+| **VII · Derechos digitales y canal de denuncias** | Desconexión digital · Canal interno | Ley 10/2021 · Ley 2/2023 | 🔜 Pendiente |
 
 ## Estructura del repositorio
 
@@ -25,13 +28,13 @@ formacion-obligatoria-empresas-espana/
 ├── index.md                          ← Portada (GitHub Pages)
 ├── prl/
 │   └── ley-31-1995-formacion-prl.md  ← Ficha PRL (art. 19 LPRL)
-├── igualdad/                         ← Pendiente
-├── proteccion-datos/                 ← Pendiente
-├── blanqueo/                         ← Pendiente
-├── ciberseguridad/                   ← Pendiente
-├── canal-denuncias/                  ← Pendiente
-├── alimentacion/                     ← Pendiente
-└── desconexion-digital/              ← Pendiente
+├── igualdad/                         ← Bloque II
+├── proteccion-datos/                 ← Bloque III
+├── alimentacion/                     ← Bloque IV
+├── blanqueo/                         ← Bloque V
+├── ciberseguridad/                   ← Bloque VI
+├── canal-denuncias/                  ← Bloque VII (canal)
+└── desconexion-digital/              ← Bloque VII (desconexión)
 ```
 
 ## Cada ficha incluye
