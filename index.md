@@ -2,94 +2,59 @@
 layout: default
 title: Inicio
 nav_order: 1
-description: "Legislación y reglamentos que regulan las formaciones obligatorias en las empresas españolas."
+description: "Guía completa de formaciones obligatorias para empresas en España: qué exige la ley, a quién obliga, con qué periodicidad y qué sanciones tiene el incumplimiento. Datos verificados contra el BOE 2026."
 permalink: /
 ---
 
 # Formación obligatoria para empresas en España
 {: .fs-9 }
 
-Legislación, reglamentos y obligaciones de formación que toda empresa española debe cumplir. Cada norma comentada para técnicos de RRHH, compliance y formación.
+Legislación, reglamentos y obligaciones de formación que toda empresa española debe cumplir. Cada ficha indica la norma vigente, a quién obliga, la periodicidad y la sanción. Verificado contra el BOE el 24/06/2026.
 {: .fs-6 .fw-300 }
 
 ---
 
-## I · Seguridad y salud en el trabajo
+## Elige cómo quieres consultar la información
 
-La obligación de formación más antigua, más fiscalizada y con mayor volumen de sanciones. Afecta a todas las empresas con trabajadores por cuenta ajena, sin excepción.
+### 🏭 Por sector de actividad
+Encuentra las obligaciones específicas de tu sector: hostelería, construcción, transporte, industria, comercio, sanidad, agricultura, finanzas, educación o Administración Pública.
 
-| Materia | Norma principal | Estado |
-|:--------|:----------------|:-------|
-| [**Prevención de Riesgos Laborales**](prl/ley-31-1995-formacion-prl) | Ley 31/1995, art. 19 · RD 39/1997 | ✅ Disponible |
+[**Ver formación obligatoria por sector de actividad →**](/por-actividad/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
----
-
-## II · Igualdad, acoso y diversidad
-
-Obligaciones derivadas de la normativa de igualdad de género, protocolos de acoso laboral y sexual, y diversidad LGTBI. Algunas afectan solo a empresas de 50+ empleados; otras, a todas.
-
-| Materia | Norma principal | Estado |
-|:--------|:----------------|:-------|
-| [**Igualdad de género, acoso y diversidad LGTBI**](igualdad/igualdad-lo-3-2007) | LO 3/2007 · RD 901/2020 · Ley 4/2023 | ✅ Disponible |
-
----
-
-## III · Protección de datos
-
-Formación obligatoria para todo el personal que trate datos personales. Afecta a prácticamente todas las empresas. Supervisada por la AEPD.
-
-| Materia | Norma principal | Estado |
-|:--------|:----------------|:-------|
-| [**RGPD y LOPDGDD — formación de trabajadores**](proteccion-datos/rgpd-lopdgdd-formacion) | Rgto. UE 2016/679 · LO 3/2018 | ✅ Disponible |
+| Sector | Obligaciones |
+|:--|:--:|
+| [Hostelería y restauración](/por-actividad/hosteleria/) | 10 |
+| [Construcción y obras](/por-actividad/construccion/) | 13 |
+| [Transporte y logística](/por-actividad/transporte-logistica/) | 10 |
+| [Industria y fabricación](/por-actividad/industria/) | 13 |
+| [Comercio y distribución](/por-actividad/comercio/) | 10 |
+| [Sanidad y servicios sociosanitarios](/por-actividad/sanidad/) | 9 |
+| [Agricultura y ganadería](/por-actividad/agricultura/) | 9 |
+| [Servicios financieros y seguros](/por-actividad/servicios-financieros/) | 8 |
+| [Educación y formación](/por-actividad/educacion/) | 7 |
+| [Administración pública](/por-actividad/administracion-publica/) | 8 |
 
 ---
 
-## IV · Seguridad alimentaria
+### 📋 Por materia legal
+Consulta directamente cada obligación: PRL, RGPD, igualdad, alérgenos, NIS2, ADR, protección radiológica y 21 más.
 
-El bloque con mayor volumen normativo: 37 cursos respaldados por legislación europea y española. Obligaciones de formación en manipulación de alimentos, APPCC, alérgenos, higiene y cultura de seguridad alimentaria.
-
-| Materia | Norma principal | Estado |
-|:--------|:----------------|:-------|
-| [**Manipulación, APPCC, alérgenos, BPH y cultura de seguridad**](alimentacion/seguridad-alimentaria-formacion) | Rgto. CE 852/2004 · Ley 17/2011 | ✅ Disponible |
+[**Ver las 28 fichas por materia →**](/por-sector/){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## V · Blanqueo de capitales
+## ¿Por qué es importante?
 
-Formación anual obligatoria para los sujetos obligados del art. 2.1 de la Ley 10/2010: entidades financieras, inmobiliarias, notarios, abogados, auditores, joyerías, casinos y otros. Supervisada por el SEPBLAC.
+Las formaciones obligatorias no son optativas: **su incumplimiento se sanciona**. Las multas van desde cientos de euros (PRL leve) hasta **20 millones de euros** (infracción muy grave del RGPD) o la **pérdida de bonificaciones FUNDAE** en el caso de igualdad.
 
-| Materia | Norma principal | Estado |
-|:--------|:----------------|:-------|
-| Prevención del blanqueo de capitales y financiación del terrorismo | Ley 10/2010 · RD 304/2014 · Rgto. UE 2024/1624 | 🔜 Pendiente |
+Además, muchas de estas formaciones son **bonificables al 100% a través de FUNDAE**, por lo que su coste para la empresa es cero si se gestionan correctamente.
 
 ---
 
-## VI · Ciberseguridad
+## Sobre este recurso
 
-Obligaciones derivadas de la Directiva NIS2 para entidades esenciales e importantes. Incluye concienciación general de la plantilla y formación específica para teletrabajo seguro.
+Mantenido por **Ana María González** · Directora de [CiberAula](https://www.ciberaula.com) · Formación bonificada para empresas desde 1997.
 
-| Materia | Norma principal | Estado |
-|:--------|:----------------|:-------|
-| Ciberseguridad corporativa (NIS2) | Directiva UE 2022/2555 · RD 1017/2024 | 🔜 Pendiente |
-| Teletrabajo seguro | Ley 10/2021 · RD 311/2022 (ENS) | 🔜 Pendiente |
+Contenido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — puede compartir y adaptar citando la fuente.
 
----
-
-## VII · Derechos digitales y canal de denuncias
-
-Obligaciones de formación sobre el derecho a la desconexión digital y sobre el funcionamiento y garantías del canal interno de información.
-
-| Materia | Norma principal | Estado |
-|:--------|:----------------|:-------|
-| Desconexión digital | LO 3/2018, art. 88 · Ley 10/2021 | 🔜 Pendiente |
-| Canal de denuncias (protección del informante) | Ley 2/2023 · Directiva UE 2019/1937 | 🔜 Pendiente |
-
----
-
-## Aviso importante
-
-Este repositorio es un recurso informativo y divulgativo. **No constituye asesoramiento jurídico**. La normativa puede cambiar; cada ficha indica su fecha de última verificación. Para decisiones que afecten al cumplimiento legal de su empresa, consulte con un profesional del derecho laboral.
-
----
-
-Mantenido por **Ana María González** · Directora de [CiberAula](https://www.ciberaula.com) · Contenido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+*Este recurso es informativo y divulgativo. No constituye asesoramiento jurídico.*
