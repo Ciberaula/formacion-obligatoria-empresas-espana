@@ -18,14 +18,14 @@ La Administración Pública está sujeta a todas las obligaciones de PRL, iguald
 
 | Obligación | Norma principal | A quién afecta |
 |:--|:--|:--|
-| [**PRL — riesgos del puesto**](/por-sector/prl/) | Ley 31/1995, art. 19 | Toda la plantilla |
-| [**Emergencias y primeros auxilios**](/por-sector/emergencias/) | Ley 31/1995, art. 20 | Equipo de emergencia designado |
-| [**Protección de datos (RGPD)**](/por-sector/datos/) | Reglamento (UE) 2016/679 | Toda la plantilla que acceda a datos personales de ciudadanos |
-| [**Igualdad y prevención del acoso**](/por-sector/igualdad/) | LO 3/2007 | Todas las entidades |
-| [**Desconexión digital**](/por-sector/descon/) | LO 3/2018, art. 88 | Toda la plantilla |
-| [**Canal de denuncias**](/por-sector/canal/) | Ley 2/2023 | Toda la Administración Pública sin umbral de tamaño |
-| [**Ciberseguridad (NIS2)**](/por-sector/ciber/) | Directiva (UE) 2022/2555 + ENS | Todas las entidades del sector público |
-| [**Prevención del blanqueo (PBC)**](/por-sector/pbc/) | Ley 10/2010 | Notarías, registros y ciertos organismos habilitados |
+| [**PRL — riesgos del puesto**]({{ '/por-sector/prl/' | relative_url }}) | Ley 31/1995, art. 19 | Toda la plantilla |
+| [**Emergencias y primeros auxilios**]({{ '/por-sector/emergencias/' | relative_url }}) | Ley 31/1995, art. 20 | Equipo de emergencia designado |
+| [**Protección de datos (RGPD)**]({{ '/por-sector/datos/' | relative_url }}) | Reglamento (UE) 2016/679 | Toda la plantilla que acceda a datos personales de ciudadanos |
+| [**Igualdad y prevención del acoso**]({{ '/por-sector/igualdad/' | relative_url }}) | LO 3/2007 | Todas las entidades |
+| [**Desconexión digital**]({{ '/por-sector/descon/' | relative_url }}) | LO 3/2018, art. 88 | Toda la plantilla |
+| [**Canal de denuncias**]({{ '/por-sector/canal/' | relative_url }}) | Ley 2/2023 | Toda la Administración Pública sin umbral de tamaño |
+| [**Ciberseguridad (NIS2)**]({{ '/por-sector/ciber/' | relative_url }}) | Directiva (UE) 2022/2555 + ENS | Todas las entidades del sector público |
+| [**Prevención del blanqueo (PBC)**]({{ '/por-sector/pbc/' | relative_url }}) | Ley 10/2010 | Notarías, registros y ciertos organismos habilitados |
 
 ---
 
@@ -37,9 +37,9 @@ La Administración Pública está sujeta a todas las obligaciones de PRL, iguald
 
 ## Formación bonificada para este sector
 
-CiberAula dispone de cursos bonificados por FUNDAE para todas estas obligaciones. [Consulta el catálogo completo](https://www.ciberaula.com/cursos-bonificados/) o solicita un programa a medida para tu empresa.
+Muchas de estas obligaciones pueden cubrirse con cursos bonificables con el crédito de formación FUNDAE de tu empresa. Las que exigen un carné, una habilitación o un centro acreditado lo indican en su ficha, en el apartado «¿Vale un curso online?». [Consulta el catálogo de CiberAula](https://www.ciberaula.com/cursos-bonificados/) o solicita un programa a medida para tu empresa.
 
 ---
 
-**Última verificación:** 2026-06-24 contra el BOE.  
+**Última verificación:** 15/10/2026 contra el BOE.  
 *Información divulgativa, no asesoramiento jurídico. La normativa puede cambiar; consulte siempre la fuente oficial.*

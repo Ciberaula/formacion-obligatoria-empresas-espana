@@ -18,16 +18,16 @@ El transporte por carretera exige el Certificado de Aptitud Profesional (CAP) pa
 
 | Obligación | Norma principal | A quién afecta |
 |:--|:--|:--|
-| [**PRL — riesgos del puesto**](/por-sector/prl/) | Ley 31/1995, art. 19 | Toda la plantilla |
-| [**Emergencias y primeros auxilios**](/por-sector/emergencias/) | Ley 31/1995, art. 20 | Equipo de emergencia designado |
-| [**Protección de datos (RGPD)**](/por-sector/datos/) | Reglamento (UE) 2016/679 | Personal que trate datos de clientes o empleados |
-| [**Igualdad y prevención del acoso**](/por-sector/igualdad/) | LO 3/2007 | Todas las empresas; Plan de Igualdad si ≥50 trabajadores |
-| [**Canal de denuncias**](/por-sector/canal/) | Ley 2/2023 | Empresas de ≥50 trabajadores |
-| [**Seguridad vial / CAP**](/por-sector/vial/) | RD 284/2021 | Conductores profesionales de mercancías o viajeros |
-| [**Mercancías peligrosas (ADR)**](/por-sector/adr/) | Acuerdo ADR; RD 97/2014 | Conductores y consejeros de seguridad si se transportan mercancías peligrosas |
-| [**Carretillas elevadoras**](/por-sector/carretillas/) | RD 1215/1997 | Operadores de carretillas en almacén o muelle |
-| [**Grúas (puente, torre, móvil)**](/por-sector/gruas/) | RD 837/2003 | Operadores de puentes grúa en almacén o nave |
-| [**Espacios confinados**](/por-sector/confinados/) | Ley 31/1995; RD 1215/1997 | Personal que accede a silos, cisternas o fosos |
+| [**PRL — riesgos del puesto**]({{ '/por-sector/prl/' | relative_url }}) | Ley 31/1995, art. 19 | Toda la plantilla |
+| [**Emergencias y primeros auxilios**]({{ '/por-sector/emergencias/' | relative_url }}) | Ley 31/1995, art. 20 | Equipo de emergencia designado |
+| [**Protección de datos (RGPD)**]({{ '/por-sector/datos/' | relative_url }}) | Reglamento (UE) 2016/679 | Personal que trate datos de clientes o empleados |
+| [**Igualdad y prevención del acoso**]({{ '/por-sector/igualdad/' | relative_url }}) | LO 3/2007 | Todas las empresas; Plan de Igualdad si ≥50 trabajadores |
+| [**Canal de denuncias**]({{ '/por-sector/canal/' | relative_url }}) | Ley 2/2023 | Empresas de ≥50 trabajadores |
+| [**CAP de conductores profesionales**]({{ '/por-sector/cap/' | relative_url }}) | RD 284/2021 | Conductores profesionales de mercancías o viajeros |
+| [**Mercancías peligrosas (ADR)**]({{ '/por-sector/adr/' | relative_url }}) | ADR 2025; RD 97/2014; RD 818/2009 | Conductores y consejeros de seguridad si se transportan mercancías peligrosas |
+| [**Carretillas elevadoras**]({{ '/por-sector/carretillas/' | relative_url }}) | RD 1215/1997 | Operadores de carretillas en almacén o muelle |
+| [**Grúas (puente, torre, móvil)**]({{ '/por-sector/gruas/' | relative_url }}) | RD 837/2003 | Operadores de puentes grúa en almacén o nave |
+| [**Espacios confinados**]({{ '/por-sector/confinados/' | relative_url }}) | Ley 31/1995, art. 19; RD 39/1997, art. 22 bis (recurso preventivo) | Personal que accede a silos, cisternas o fosos |
 
 ---
 
@@ -39,9 +39,9 @@ El transporte por carretera exige el Certificado de Aptitud Profesional (CAP) pa
 
 ## Formación bonificada para este sector
 
-CiberAula dispone de cursos bonificados por FUNDAE para todas estas obligaciones. [Consulta el catálogo completo](https://www.ciberaula.com/cursos-bonificados/) o solicita un programa a medida para tu empresa.
+Muchas de estas obligaciones pueden cubrirse con cursos bonificables con el crédito de formación FUNDAE de tu empresa. Las que exigen un carné, una habilitación o un centro acreditado lo indican en su ficha, en el apartado «¿Vale un curso online?». [Consulta el catálogo de CiberAula](https://www.ciberaula.com/cursos-bonificados/) o solicita un programa a medida para tu empresa.
 
 ---
 
-**Última verificación:** 2026-06-24 contra el BOE.  
+**Última verificación:** 15/10/2026 contra el BOE.  
 *Información divulgativa, no asesoramiento jurídico. La normativa puede cambiar; consulte siempre la fuente oficial.*

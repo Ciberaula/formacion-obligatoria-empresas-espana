@@ -18,19 +18,19 @@ La construcción es el sector con mayor siniestralidad laboral y el que acumula 
 
 | Obligación | Norma principal | A quién afecta |
 |:--|:--|:--|
-| [**PRL — riesgos del puesto**](/por-sector/prl/) | Ley 31/1995, art. 19 | Toda la plantilla |
-| [**Emergencias y primeros auxilios**](/por-sector/emergencias/) | Ley 31/1995, art. 20 | Equipo de emergencia designado |
-| [**Protección de datos (RGPD)**](/por-sector/datos/) | Reglamento (UE) 2016/679 | Personal que trate datos de empleados o clientes |
-| [**Igualdad y prevención del acoso**](/por-sector/igualdad/) | LO 3/2007 | Todas las empresas; Plan de Igualdad si ≥50 trabajadores |
-| [**Canal de denuncias**](/por-sector/canal/) | Ley 2/2023 | Empresas de ≥50 trabajadores |
-| [**PRL en construcción (TPC)**](/por-sector/prlcon/) | Convenio General de la Construcción | Todo el personal de obra |
-| [**Trabajos en altura**](/por-sector/altura/) | RD 2177/2004 | Personal que trabaja en cubiertas, andamios o con líneas de vida |
-| [**Espacios confinados**](/por-sector/confinados/) | Ley 31/1995; RD 1215/1997 | Personal que accede a pozos, galerías o zanjas |
-| [**Amianto**](/por-sector/amianto/) | RD 396/2006 | Personal de demolición o rehabilitación de edificios anteriores a 2002 |
-| [**Riesgo eléctrico**](/por-sector/electrico/) | RD 614/2001 | Personal que trabaja en o cerca de instalaciones eléctricas |
-| [**Grúas (puente, torre, móvil)**](/por-sector/gruas/) | RD 837/2003; RD 836/2003 | Operadores de grúa torre y grúa móvil autopropulsada |
-| [**Plataformas elevadoras (PEMP)**](/por-sector/pemp/) | RD 1215/1997 | Operadores de plataformas elevadoras móviles |
-| [**Carretillas elevadoras**](/por-sector/carretillas/) | RD 1215/1997 | Operadores de carretillas en obra o almacén |
+| [**PRL — riesgos del puesto**]({{ '/por-sector/prl/' | relative_url }}) | Ley 31/1995, art. 19 | Toda la plantilla |
+| [**Emergencias y primeros auxilios**]({{ '/por-sector/emergencias/' | relative_url }}) | Ley 31/1995, art. 20 | Equipo de emergencia designado |
+| [**Protección de datos (RGPD)**]({{ '/por-sector/datos/' | relative_url }}) | Reglamento (UE) 2016/679 | Personal que trate datos de empleados o clientes |
+| [**Igualdad y prevención del acoso**]({{ '/por-sector/igualdad/' | relative_url }}) | LO 3/2007 | Todas las empresas; Plan de Igualdad si ≥50 trabajadores |
+| [**Canal de denuncias**]({{ '/por-sector/canal/' | relative_url }}) | Ley 2/2023 | Empresas de ≥50 trabajadores |
+| [**PRL en construcción (TPC)**]({{ '/por-sector/prlcon/' | relative_url }}) | Convenio General de la Construcción | Todo el personal de obra |
+| [**Trabajos en altura**]({{ '/por-sector/altura/' | relative_url }}) | RD 2177/2004 | Personal que trabaja en cubiertas, andamios o con líneas de vida |
+| [**Espacios confinados**]({{ '/por-sector/confinados/' | relative_url }}) | Ley 31/1995, art. 19; RD 39/1997, art. 22 bis (recurso preventivo) | Personal que accede a pozos, galerías o zanjas |
+| [**Amianto**]({{ '/por-sector/amianto/' | relative_url }}) | RD 396/2006 | Personal de demolición o rehabilitación de edificios anteriores a 2002 |
+| [**Riesgo eléctrico**]({{ '/por-sector/electrico/' | relative_url }}) | RD 614/2001 | Personal que trabaja en o cerca de instalaciones eléctricas |
+| [**Grúas (puente, torre, móvil)**]({{ '/por-sector/gruas/' | relative_url }}) | RD 837/2003; RD 836/2003 | Operadores de grúa torre y grúa móvil autopropulsada |
+| [**Plataformas elevadoras (PEMP)**]({{ '/por-sector/pemp/' | relative_url }}) | RD 1215/1997 | Operadores de plataformas elevadoras móviles |
+| [**Carretillas elevadoras**]({{ '/por-sector/carretillas/' | relative_url }}) | RD 1215/1997 | Operadores de carretillas en obra o almacén |
 
 ---
 
@@ -42,9 +42,9 @@ La construcción es el sector con mayor siniestralidad laboral y el que acumula 
 
 ## Formación bonificada para este sector
 
-CiberAula dispone de cursos bonificados por FUNDAE para todas estas obligaciones. [Consulta el catálogo completo](https://www.ciberaula.com/cursos-bonificados/) o solicita un programa a medida para tu empresa.
+Muchas de estas obligaciones pueden cubrirse con cursos bonificables con el crédito de formación FUNDAE de tu empresa. Las que exigen un carné, una habilitación o un centro acreditado lo indican en su ficha, en el apartado «¿Vale un curso online?». [Consulta el catálogo de CiberAula](https://www.ciberaula.com/cursos-bonificados/) o solicita un programa a medida para tu empresa.
 
 ---
 
-**Última verificación:** 2026-06-24 contra el BOE.  
+**Última verificación:** 15/10/2026 contra el BOE.  
 *Información divulgativa, no asesoramiento jurídico. La normativa puede cambiar; consulte siempre la fuente oficial.*

@@ -17,16 +17,16 @@ Encuentra rápidamente qué formaciones exige la ley **según el sector en el qu
 
 | Sector | Obligaciones | Descripción |
 |:--|:--:|:--|
-| [**Hostelería y restauración**](/por-actividad/hosteleria/) | 10 | Hoteles, restaurantes, bares, catering y comedores colectivos. |
-| [**Construcción y obras**](/por-actividad/construccion/) | 13 | Empresas constructoras, promotoras, instaladoras y mantenimiento de edificios. |
-| [**Transporte y logística**](/por-actividad/transporte-logistica/) | 10 | Empresas de transporte por carretera, almacenaje, distribución y mensajería. |
-| [**Industria y fabricación**](/por-actividad/industria/) | 13 | Plantas de producción, fabricación, química, metalurgia y manufactura en general. |
-| [**Comercio y distribución**](/por-actividad/comercio/) | 10 | Tiendas, supermercados, grandes superficies, comercio online y retail en general. |
-| [**Sanidad y servicios sociosanitarios**](/por-actividad/sanidad/) | 9 | Hospitales, clínicas, centros de salud, residencias, farmacias y laboratorios. |
-| [**Agricultura y ganadería**](/por-actividad/agricultura/) | 9 | Explotaciones agrícolas, ganaderas, agroindustria y cooperativas del campo. |
-| [**Servicios financieros y seguros**](/por-actividad/servicios-financieros/) | 8 | Bancos, aseguradoras, gestoras, corredurías, fintech y entidades de crédito. |
-| [**Educación y formación**](/por-actividad/educacion/) | 7 | Centros educativos, academias, universidades y empresas de formación. |
-| [**Administración pública**](/por-actividad/administracion-publica/) | 8 | Organismos públicos, ayuntamientos, comunidades autónomas y entidades dependientes. |
+| [**Hostelería y restauración**]({{ '/por-actividad/hosteleria/' | relative_url }}) | 10 | Hoteles, restaurantes, bares, catering y comedores colectivos. |
+| [**Construcción y obras**]({{ '/por-actividad/construccion/' | relative_url }}) | 13 | Empresas constructoras, promotoras, instaladoras y mantenimiento de edificios. |
+| [**Transporte y logística**]({{ '/por-actividad/transporte-logistica/' | relative_url }}) | 10 | Empresas de transporte por carretera, almacenaje, distribución y mensajería. |
+| [**Industria y fabricación**]({{ '/por-actividad/industria/' | relative_url }}) | 13 | Plantas de producción, fabricación, química, metalurgia y manufactura en general. |
+| [**Comercio y distribución**]({{ '/por-actividad/comercio/' | relative_url }}) | 10 | Tiendas, supermercados, grandes superficies, comercio online y retail en general. |
+| [**Sanidad y servicios sociosanitarios**]({{ '/por-actividad/sanidad/' | relative_url }}) | 9 | Hospitales, clínicas, centros de salud, residencias, farmacias y laboratorios. |
+| [**Agricultura y ganadería**]({{ '/por-actividad/agricultura/' | relative_url }}) | 9 | Explotaciones agrícolas, ganaderas, agroindustria y cooperativas del campo. |
+| [**Servicios financieros y seguros**]({{ '/por-actividad/servicios-financieros/' | relative_url }}) | 8 | Bancos, aseguradoras, gestoras, corredurías, fintech y entidades de crédito. |
+| [**Educación y formación**]({{ '/por-actividad/educacion/' | relative_url }}) | 7 | Centros educativos, academias, universidades y empresas de formación. |
+| [**Administración pública**]({{ '/por-actividad/administracion-publica/' | relative_url }}) | 8 | Organismos públicos, ayuntamientos, comunidades autónomas y entidades dependientes. |
 
 ---
 

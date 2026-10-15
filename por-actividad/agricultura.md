@@ -18,15 +18,15 @@ La agricultura y ganadería concentran obligaciones ligadas al uso de productos 
 
 | Obligación | Norma principal | A quién afecta |
 |:--|:--|:--|
-| [**PRL — riesgos del puesto**](/por-sector/prl/) | Ley 31/1995, art. 19 | Toda la plantilla |
-| [**Emergencias y primeros auxilios**](/por-sector/emergencias/) | Ley 31/1995, art. 20 | Equipo de emergencia designado |
-| [**Protección de datos (RGPD)**](/por-sector/datos/) | Reglamento (UE) 2016/679 | Personal que trate datos de empleados o clientes |
-| [**Igualdad y prevención del acoso**](/por-sector/igualdad/) | LO 3/2007 | Todas las empresas; Plan de Igualdad si ≥50 trabajadores |
-| [**Productos fitosanitarios**](/por-sector/fito/) | RD 1311/2012 | Todo el personal que aplique o manipule fitosanitarios de uso profesional |
-| [**Bienestar animal**](/por-sector/animal/) | Reglamento (CE) 1/2005; RD 990/2022 | Personal de explotaciones ganaderas y transporte de animales vivos |
-| [**Espacios confinados**](/por-sector/confinados/) | Ley 31/1995; RD 1215/1997 | Personal que accede a silos, fosos o depósitos |
-| [**Carretillas elevadoras**](/por-sector/carretillas/) | RD 1215/1997 | Operadores de carretillas o toros en almacén o cooperativa |
-| [**Mercancías peligrosas (ADR)**](/por-sector/adr/) | Acuerdo ADR; RD 97/2014 | Si se transportan fitosanitarios clasificados como peligrosos |
+| [**PRL — riesgos del puesto**]({{ '/por-sector/prl/' | relative_url }}) | Ley 31/1995, art. 19 | Toda la plantilla |
+| [**Emergencias y primeros auxilios**]({{ '/por-sector/emergencias/' | relative_url }}) | Ley 31/1995, art. 20 | Equipo de emergencia designado |
+| [**Protección de datos (RGPD)**]({{ '/por-sector/datos/' | relative_url }}) | Reglamento (UE) 2016/679 | Personal que trate datos de empleados o clientes |
+| [**Igualdad y prevención del acoso**]({{ '/por-sector/igualdad/' | relative_url }}) | LO 3/2007 | Todas las empresas; Plan de Igualdad si ≥50 trabajadores |
+| [**Productos fitosanitarios**]({{ '/por-sector/fito/' | relative_url }}) | RD 1311/2012 | Todo el personal que aplique o manipule fitosanitarios de uso profesional |
+| [**Bienestar animal**]({{ '/por-sector/animal/' | relative_url }}) | Reglamento (CE) 1/2005; RD 990/2022 | Personal de explotaciones ganaderas y transporte de animales vivos |
+| [**Espacios confinados**]({{ '/por-sector/confinados/' | relative_url }}) | Ley 31/1995, art. 19; RD 39/1997, art. 22 bis (recurso preventivo) | Personal que accede a silos, fosos o depósitos |
+| [**Carretillas elevadoras**]({{ '/por-sector/carretillas/' | relative_url }}) | RD 1215/1997 | Operadores de carretillas o toros en almacén o cooperativa |
+| [**Mercancías peligrosas (ADR)**]({{ '/por-sector/adr/' | relative_url }}) | ADR 2025; RD 97/2014; RD 818/2009 | Si se transportan fitosanitarios clasificados como peligrosos |
 
 ---
 
@@ -38,9 +38,9 @@ La agricultura y ganadería concentran obligaciones ligadas al uso de productos 
 
 ## Formación bonificada para este sector
 
-CiberAula dispone de cursos bonificados por FUNDAE para todas estas obligaciones. [Consulta el catálogo completo](https://www.ciberaula.com/cursos-bonificados/) o solicita un programa a medida para tu empresa.
+Muchas de estas obligaciones pueden cubrirse con cursos bonificables con el crédito de formación FUNDAE de tu empresa. Las que exigen un carné, una habilitación o un centro acreditado lo indican en su ficha, en el apartado «¿Vale un curso online?». [Consulta el catálogo de CiberAula](https://www.ciberaula.com/cursos-bonificados/) o solicita un programa a medida para tu empresa.
 
 ---
 
-**Última verificación:** 2026-06-24 contra el BOE.  
+**Última verificación:** 15/10/2026 contra el BOE.  
 *Información divulgativa, no asesoramiento jurídico. La normativa puede cambiar; consulte siempre la fuente oficial.*

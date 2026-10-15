@@ -9,7 +9,7 @@ permalink: /
 # Formación obligatoria para empresas en España
 {: .fs-9 }
 
-Legislación, reglamentos y obligaciones de formación que toda empresa española debe cumplir. Cada ficha indica la norma vigente, a quién obliga, la periodicidad y la sanción. Verificado contra el BOE el 24/06/2026.
+Legislación, reglamentos y obligaciones de formación que toda empresa española debe cumplir. Cada ficha indica la norma vigente, a quién obliga, la periodicidad y la sanción. Verificado contra el BOE el 15/10/2026.
 {: .fs-6 .fw-300 }
 
 ---
@@ -19,27 +19,27 @@ Legislación, reglamentos y obligaciones de formación que toda empresa español
 ### 🏭 Por sector de actividad
 Encuentra las obligaciones específicas de tu sector: hostelería, construcción, transporte, industria, comercio, sanidad, agricultura, finanzas, educación o Administración Pública.
 
-[**Ver formación obligatoria por sector de actividad →**](/por-actividad/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[**Ver formación obligatoria por sector de actividad →**]({{ '/por-actividad/' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 | Sector | Obligaciones |
 |:--|:--:|
-| [Hostelería y restauración](/por-actividad/hosteleria/) | 10 |
-| [Construcción y obras](/por-actividad/construccion/) | 13 |
-| [Transporte y logística](/por-actividad/transporte-logistica/) | 10 |
-| [Industria y fabricación](/por-actividad/industria/) | 13 |
-| [Comercio y distribución](/por-actividad/comercio/) | 10 |
-| [Sanidad y servicios sociosanitarios](/por-actividad/sanidad/) | 9 |
-| [Agricultura y ganadería](/por-actividad/agricultura/) | 9 |
-| [Servicios financieros y seguros](/por-actividad/servicios-financieros/) | 8 |
-| [Educación y formación](/por-actividad/educacion/) | 7 |
-| [Administración pública](/por-actividad/administracion-publica/) | 8 |
+| [Hostelería y restauración]({{ '/por-actividad/hosteleria/' | relative_url }}) | 10 |
+| [Construcción y obras]({{ '/por-actividad/construccion/' | relative_url }}) | 13 |
+| [Transporte y logística]({{ '/por-actividad/transporte-logistica/' | relative_url }}) | 10 |
+| [Industria y fabricación]({{ '/por-actividad/industria/' | relative_url }}) | 13 |
+| [Comercio y distribución]({{ '/por-actividad/comercio/' | relative_url }}) | 10 |
+| [Sanidad y servicios sociosanitarios]({{ '/por-actividad/sanidad/' | relative_url }}) | 9 |
+| [Agricultura y ganadería]({{ '/por-actividad/agricultura/' | relative_url }}) | 9 |
+| [Servicios financieros y seguros]({{ '/por-actividad/servicios-financieros/' | relative_url }}) | 8 |
+| [Educación y formación]({{ '/por-actividad/educacion/' | relative_url }}) | 7 |
+| [Administración pública]({{ '/por-actividad/administracion-publica/' | relative_url }}) | 8 |
 
 ---
 
 ### 📋 Por materia legal
-Consulta directamente cada obligación: PRL, RGPD, igualdad, alérgenos, NIS2, ADR, protección radiológica y 21 más.
+Consulta directamente cada obligación: PRL, RGPD, igualdad, alérgenos, NIS2, ADR, protección radiológica y 30 más.
 
-[**Ver las 28 fichas por materia →**](/por-sector/){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
+[**Ver las 37 fichas por materia →**]({{ '/por-sector/' | relative_url }}){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -47,7 +47,7 @@ Consulta directamente cada obligación: PRL, RGPD, igualdad, alérgenos, NIS2, A
 
 Las formaciones obligatorias no son optativas: **su incumplimiento se sanciona**. Las multas van desde cientos de euros (PRL leve) hasta **20 millones de euros** (infracción muy grave del RGPD) o la **pérdida de bonificaciones FUNDAE** en el caso de igualdad.
 
-Además, muchas de estas formaciones son **bonificables al 100% a través de FUNDAE**, por lo que su coste para la empresa es cero si se gestionan correctamente.
+Además, muchas de estas formaciones son **bonificables con el crédito de formación FUNDAE** de la empresa, dentro del crédito anual del que disponga. Las que exigen un carné, una habilitación o un centro acreditado lo indican en su ficha.
 
 ---
 

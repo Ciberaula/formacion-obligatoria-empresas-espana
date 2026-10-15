@@ -8,33 +8,26 @@ Las empresas españolas están sujetas a múltiples obligaciones de formación q
 
 Pensado para que un **técnico de RRHH**, un **responsable de compliance** o un **agente de inteligencia artificial** pueda localizar rápidamente qué norma obliga, desde cuándo y qué consecuencias tiene no cumplirla.
 
-## Bloques temáticos
+## Cómo está organizado
 
-| Bloque | Materias | Normas principales | Estado |
-|--------|----------|-------------------|--------|
-| **I · Seguridad y salud** | PRL (art. 19 LPRL) | Ley 31/1995 · RD 39/1997 | ✅ Disponible |
-| **II · Igualdad, acoso y diversidad** | Igualdad de género · Acoso · LGTBI · Violencia sexual | LO 3/2007 · Ley 4/2023 · LO 10/2022 | 🔜 Pendiente |
-| **III · Protección de datos** | RGPD · DPO | Rgto. UE 2016/679 · LO 3/2018 | 🔜 Pendiente |
-| **IV · Seguridad alimentaria** | Manipulación · BPH · APPCC · Alérgenos · Etiquetado · Hostelería | CE 852/2004 · Ley 17/2011 | 🔜 Pendiente |
-| **V · Blanqueo de capitales** | PBC/FT · Sujetos obligados | Ley 10/2010 · RD 304/2014 | 🔜 Pendiente |
-| **VI · Ciberseguridad** | NIS2 · Teletrabajo seguro | Dir. UE 2022/2555 · RD 1017/2024 | 🔜 Pendiente |
-| **VII · Derechos digitales y canal de denuncias** | Desconexión digital · Canal interno | Ley 10/2021 · Ley 2/2023 | 🔜 Pendiente |
+Hay dos formas de consultarlo, más cuatro guías comentadas en profundidad:
+
+- **[Por materia](por-sector/)** — 37 fichas, una por obligación legal (PRL, emergencias, RGPD, igualdad, canal de denuncias, NIS2, carretillas, amianto, manipulador de alimentos, gases fluorados, CAP, ADR, seguridad privada, blanqueo de capitales…). Cada ficha dice qué norma obliga, a quién, con qué periodicidad, quién puede impartir la formación (si vale un curso online o exige centro acreditado) y qué sanción tiene incumplirla. Se generan desde la base de datos de fichas de CiberAula, verificada contra el BOE.
+- **[Por sector de actividad](por-actividad/)** — 10 sectores (hostelería, construcción, transporte, industria, comercio, sanidad, agricultura, finanzas, educación y Administración pública) con la lista de obligaciones que les afectan.
+- **Guías comentadas** — [PRL](prl/ley-31-1995-formacion-prl.md), [igualdad](igualdad/igualdad-lo-3-2007.md), [protección de datos](proteccion-datos/rgpd-lopdgdd-formacion.md) y [seguridad alimentaria](alimentacion/seguridad-alimentaria-formacion.md).
 
 ## Estructura del repositorio
 
 ```
 formacion-obligatoria-empresas-espana/
 ├── README.md
-├── index.md                          ← Portada (GitHub Pages)
-├── prl/
-│   └── ley-31-1995-formacion-prl.md  ← Ficha PRL (art. 19 LPRL)
-├── igualdad/                         ← Bloque II
-├── proteccion-datos/                 ← Bloque III
-├── alimentacion/                     ← Bloque IV
-├── blanqueo/                         ← Bloque V
-├── ciberseguridad/                   ← Bloque VI
-├── canal-denuncias/                  ← Bloque VII (canal)
-└── desconexion-digital/              ← Bloque VII (desconexión)
+├── index.md                 ← Portada (GitHub Pages)
+├── por-sector/              ← 37 fichas por materia (generadas desde la base de datos)
+├── por-actividad/           ← 10 sectores de actividad
+├── prl/                     ← Guía comentada de PRL (art. 19 LPRL)
+├── igualdad/                ← Guía comentada de igualdad
+├── proteccion-datos/        ← Guía comentada de RGPD y LOPDGDD
+└── alimentacion/            ← Guía comentada de seguridad alimentaria
 ```
 
 ## Cada ficha incluye
